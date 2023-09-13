@@ -1,5 +1,5 @@
+**Todo List App**
 
-Todo List App
 In the context of this assignment, I undertook the development of a task management application using the Python programming language. I opted to create a graphical user interface (GUI) for the application, leveraging the Tkinter library, while also being granted full autonomy in selecting the interface type, which could have been either console-based or GUI-based.
   
 The primary functionalities implemented encompassed the ability
