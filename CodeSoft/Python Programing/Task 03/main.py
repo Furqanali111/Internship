@@ -1,13 +1,10 @@
 import random
 import string
+
 def passwordgen(length):
     data=string.ascii_letters+string.digits
     password=''.join(random.choices(data,k=length))
     return password
-
-
-
-    pass
 
 if __name__=="__main__":
     try:
